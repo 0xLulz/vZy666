@@ -4,9 +4,16 @@
 - 💞️ I’m looking to collaborate on anything (malware)
 - 📫 Reach me on discord: Jeffery#8126
 
+## Languages i code
+```
+C, C#, VB, PY, PHP, JS, V, NIM, PERL, BASH, BATCH, SH
+```
+
 ## Current Projects
+```
 Skrillec Discord Bot (All-In-One Moderation)
 Skrillec Botnet 
+```
 
 ## Current Team
 Skrillec Security Team
